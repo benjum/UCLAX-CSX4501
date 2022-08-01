@@ -21,3 +21,5 @@ jupyter-dash
 dash-cytoscape
 jupyter_server_proxy
 gensim
+dtreeviz
+plotly
